@@ -23,6 +23,6 @@ Details of all functions of this system are in the report
 
 Report: [hsmarthome_project](https://github.com/huyhoang167/HSmartHome/files/11423433/DADN_222.pdf)
 
-Slide and video demo for presentation: [Slide](https://www.canva.com/design/DAFhOgqgBv0/VrHIPWUo3ZhszNwnOGH4hA/watch?utm_content=DAFhOgqgBv0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+Slide and video demo for presentation: [Slide](https://www.canva.com/design/DAFhOgqgBv0/VrHIPWUo3ZhszNwnOGH4hA/view?utm_content=DAFhOgqgBv0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
